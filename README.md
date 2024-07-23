@@ -12,3 +12,9 @@
   - Instituição: Cisco Networking Academy em colaboração com OpenEDG JS Institute
   - Data de Conclusão: 03/06/2024
   - Descrição: Durante o curso, foram estudados os conceitos fundamentais da linguagem JavaScript, incluindo o trabalho com variáveis, operadores, controle de fluxo e funções. O curso abordou o sistema de tipos de dados JavaScript, diferenciando entre tipos primitivos e complexos. Os alunos foram treinados para pensar de forma algorítmica e analisar problemas usando um aparato conceitual programático, escolher tipos de dados adequados, desenvolver e aprimorar programas simples em JavaScript, interpretar e lidar com exceções básicas, entender o trabalho do programador no processo de desenvolvimento de software e compreender como um programa é interpretado e executado em diferentes ambientes computacionais, locais ou remotos.
+
+[**PCAP: Programming Essentials in Python**]()
+
+  - Instituição: Cisco Networking Academy em colaboração com OpenEDG Python Institute
+  - Data de Conclusão: 24/05/2024
+  - Descrição: O curso abordou conceitos universais de programação de computadores, incluindo variáveis, estruturas de dados, algoritmos, controle de fluxo, funções e exceções. O estudante aprendeu a usar ferramentas de desenvolvimento, o ambiente de execução e a sintaxe e semântica da linguagem Python. Foram estudadas técnicas fundamentais de programação, melhores práticas, vocabulário comum e funções de biblioteca padrão do Python 3. O curso também incluiu o trabalho com módulos e pacotes, processamento de arquivos de texto e binários, e uso de geradores, iteradores e closures, além de fundamentos de programação orientada a objetos (OOP) e sua aplicação em Python.
