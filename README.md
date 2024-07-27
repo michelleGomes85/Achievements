@@ -26,3 +26,9 @@
   - Instituição: Cisco Networking Academy
   - Data de Conclusão: 11/03/2024
   - Descrição: Introdução à linha de comando em Linux, essencial para profissionais de TI. Proporciona uma compreensão básica do ambiente Linux e suas operações. Recomendado para avançar para o curso NDG Linux Essentials e outras certificações de administração de sistemas Linux.
+
+[**NDG Linux Essentials**](https://github.com/michelleGomes85/Achievements/blob/main/linux-intemediario.pdf)
+
+  - Instituição: Cisco Networking Academy
+  - Data de Conclusão: 16/05/2024
+   - Descrição: O curso preparou para obter o Linux Essentials Professional Development Certificate do Linux Professional Institute (LPI). Inclui compreensão do sistema operacional Linux, navegação em um sistema Linux, execução de comandos da linha de comando, conhecimento de segurança e permissões de arquivos no Linux, e motivação para avançar na carreira de TI.
