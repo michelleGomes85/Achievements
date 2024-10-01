@@ -33,7 +33,7 @@
   - Data de Conclusão: 16/05/2024
   - Descrição: O curso preparou para obter o Linux Essentials Professional Development Certificate do Linux Professional Institute (LPI). Inclui compreensão do sistema operacional Linux, navegação em um sistema Linux, execução de comandos da linha de comando, conhecimento de segurança e permissões de arquivos no Linux, e motivação para avançar na carreira de TI.
 
-[**CCNAv7: Introdução às Redes**]()
+[**CCNAv7: Introdução às Redes**](https://github.com/michelleGomes85/Achievements/blob/main/CCNAv7_Introduct-certificate.pdf)
    - Intituição: Cisco Networking Academy
    - Data de Conclusão: 06/09/2024
    - Descrição: Este curso ofereceu uma base sólida para a construção e manutenção de redes digitais. Os tópicos incluíram a configuração de comutadores e dispositivos finais para fornecer acesso local e remoto, o entendimento do funcionamento dos protocolos de camada de enlace físico e de dados em redes comutadas, e a configuração de roteadores para conectividade remota. O aluno aprendeu a criar esquemas de endereçamento IPv4 e IPv6, solucionar problemas de conectividade e implementar práticas recomendadas de segurança para pequenas redes. Ao longo do curso, o participante desenvolveu habilidades práticas em redes locais e conectividade entre dispositivos remotos.
