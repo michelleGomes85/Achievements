@@ -37,4 +37,17 @@
    - Intituição: Cisco Networking Academy
    - Data de Conclusão: 06/09/2024
    - Descrição: Este curso ofereceu uma base sólida para a construção e manutenção de redes digitais. Os tópicos incluíram a configuração de comutadores e dispositivos finais para fornecer acesso local e remoto, o entendimento do funcionamento dos protocolos de camada de enlace físico e de dados em redes comutadas, e a configuração de roteadores para conectividade remota. O aluno aprendeu a criar esquemas de endereçamento IPv4 e IPv6, solucionar problemas de conectividade e implementar práticas recomendadas de segurança para pequenas redes. Ao longo do curso, o participante desenvolveu habilidades práticas em redes locais e conectividade entre dispositivos remotos.
-   - Além do certificado de conclusão, o estudante recebeu [**uma carta assinada pelo CEO da Cisco, Chuck Robbins, parabenizando pela conclusão do curso**](https://github.com/michelleGomes85/Achievements/blob/main/CCNAv7_Introduct-letter.pdf). 
+   - Além do certificado de conclusão, o estudante recebeu [**uma carta assinada pelo CEO da Cisco, Chuck Robbins, parabenizando pela conclusão do curso**](https://github.com/michelleGomes85/Achievements/blob/main/CCNAv7_Introduct-letter.pdf).
+
+### 🤖 Inteligência Artificial
+
+[**Formação Fundamentos de Inteligência Artificial**](https://hermes.dio.me/certificates/1G1DD5Y7.pdf)
+
+ - Instituição: Digital Innovation One (DIO)
+ - Data de Conclusão: 27/09/2024
+ - Carga Horária: 10 horas
+ - Descrição: A formação foi dividida em três módulos principais:
+Primeiros passos no mundo da Inteligência Artificial: Introdução ao conceito de IA, suas origens e desenvolvimento ao longo do tempo.
+Como e onde a IA está presente em nosso dia a dia: Estudo prático e teórico sobre as aplicações da IA em diversas áreas como saúde, finanças e tecnologia.
+Os pilares da Inteligência Artificial: Exploração dos fundamentos teóricos da IA, incluindo aprendizado de máquina, redes neurais e processamento de linguagem natural.
+Este curso proporcionou uma visão inicial abrangente sobre as tecnologias de IA e suas implicações na sociedade moderna, preparando o estudante para formações mais avançadas na área.
