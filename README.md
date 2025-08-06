@@ -60,7 +60,7 @@ Este curso proporcionou uma visão inicial abrangente sobre as tecnologias de IA
 - Período: 01/05/2024 – 28/02/2025
 - Descrição: Participação como ministrante em projeto de extensão voltado à capacitação de professores no uso de Inteligência Artificial aplicada à educação. As aulas abordaram conceitos fundamentais de IA, ferramentas práticas e estratégias para utilização em sala de aula, com foco em inovação pedagógica e transformação digital.
 
-[**Sábado Letivo – Minicurso “Transformando a Aprendizagem: Capacitação em Inteligência Artificial no Contexto Educacional”**]()
+[**Sábado Letivo – Minicurso “Transformando a Aprendizagem: Capacitação em Inteligência Artificial no Contexto Educacional”**](https://github.com/michelleGomes85/Achievements/blob/main/sabado_letivo.pdf)
 
 - Instituição: Instituto Federal do Sudeste de Minas Gerais – Campus Barbacena
 - Data: 05/07/2025
