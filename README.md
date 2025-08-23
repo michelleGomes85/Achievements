@@ -19,6 +19,22 @@
   - Data de Conclusão: 04/07/2024
   - Descrição: Durante o curso, foram estudados os conceitos universais de programação de computadores, ferramentas de desenvolvimento, sintaxe e semântica da linguagem C, tipos de dados em C, resolução de problemas típicos de implementação, escrita de programas em C utilizando a infraestrutura padrão da linguagem, técnicas fundamentais de programação, costumes e vocabulário, incluindo as funções de biblioteca mais comuns e o uso do pré-processador. A conclusão do curso prepara o estudante para tentar a certificação CLA – C Programming Language Certified Associate do C++ Institute.
 
+### 🛠️ Ferramentas e Boas Práticas
+
+[**Git e Versionamento**]()
+
+  - Instituição: Ada Tech
+  - Data de Conclusão: 05/2024
+  - Carga Horária: 2 horas
+  - Descrição: Curso introdutório sobre controle de versão com Git, abordando criação de repositórios, commits, branches e colaboração em projetos de software.
+
+[**Formação GitHub Certification**](https://hermes.dio.me/certificates/TEWFK1WO.pdf)
+
+  - Instituição: Digital Innovation One (DIO)
+  - Data de Conclusão: 02/12/2024
+  - Carga Horária: 10 horas
+  - Descrição: Bootcamp focado no uso do GitHub como ferramenta de versionamento e colaboração. Abordou boas práticas de repositórios, automação de fluxos com GitHub Actions e recursos para trabalho em equipe em projetos de software.
+
 ### 🏆 Treinamentos Adicionais
 
 [**NDG Linux Unhatched**](https://github.com/michelleGomes85/Achievements/blob/main/linux-basico.pdf)
@@ -41,10 +57,10 @@
 
 [**Arduino**](https://github.com/michelleGomes85/Achievements/blob/main/ARD_Certificado.pdf)
 
-- Instituição: Centro Paula Souza
-- Data de Conclusão: 20/08/2025
-- Carga Horária: 30 horas
-- Descrição: Curso introdutório de eletrônica e programação com Arduino. Incluiu lógica de programação, uso de sensores e atuadores (LED, buzzer, push button, motores, display de 7 segmentos), além da construção de pequenos projetos práticos.
+  - Instituição: Centro Paula Souza
+  - Data de Conclusão: 20/08/2025
+  - Carga Horária: 30 horas
+  - Descrição: Curso introdutório de eletrônica e programação com Arduino. Incluiu lógica de programação, uso de sensores e atuadores (LED, buzzer, push button, motores, display de 7 segmentos), além da construção de pequenos projetos práticos.
 
 ### 🤖 Inteligência Artificial
 
