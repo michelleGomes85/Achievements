@@ -9,6 +9,12 @@
 - **Carga Horária**: 80 horas  
 - **Descrição**: Curso introdutório voltado ao nivelamento de conhecimentos essenciais para a área de cibersegurança. Os conteúdos abordados incluíram: fundamentos de cibersegurança, identificação de componentes de hardware, compreensão das camadas da internet (acesso à rede, IP, IPv6, transporte e aplicação), uso de sistemas operacionais Windows e Linux, lógica de programação e desenvolvimento de scripts. O curso faz parte da trilha formativa do programa Hackers do Bem, com foco em inclusão e capacitação técnica para carreiras em segurança da informação.
 
+[**Básico – Programa Hackers do Bem: Formação em Cibersegurança**](https://github.com/michelleGomes85/Achievements/blob/main/Certificado_B%C3%A1sico.pdf)  
+- **Instituição**: SENAI SP em parceria com o Programa Hackers do Bem  
+- **Período de realização**: 25/03/2024 – 17/10/2025  
+- **Data de conclusão**: 17/10/2025  
+- **Descrição**: Curso de formação básica em cibersegurança com foco no desenvolvimento de competências essenciais para atuação na área de segurança da informação. O conteúdo abordou conceitos de redes, sistemas operacionais, fundamentos de segurança, boas práticas de proteção digital, análise de riscos e introdução a ferramentas e técnicas utilizadas no contexto de cibersegurança.
+
 ### 👩🏻‍💻 Programação
 
 [**PCAP: Programming Essentials in Python**](https://github.com/michelleGomes85/Achievements/blob/main/Language-Python.pdf)  
