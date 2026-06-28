@@ -15,6 +15,12 @@
 - **Data de conclusão**: 17/10/2025  
 - **Descrição**: Curso de formação básica em cibersegurança com foco no desenvolvimento de competências essenciais para atuação na área de segurança da informação. O conteúdo abordou conceitos de redes, sistemas operacionais, fundamentos de segurança, boas práticas de proteção digital, análise de riscos e introdução a ferramentas e técnicas utilizadas no contexto de cibersegurança.
 
+[**Fundamental – Programa Hackers do Bem: Formação em Cibersegurança**](https://github.com/michelleGomes85/Achievements/blob/main/Certificado_-_Fundamental.pdf)  
+- **Instituição**: SENAI SP em parceria com o Programa Hackers do Bem  
+- **Data de Conclusão**: 2026  
+- **Carga Horária**: 96 horas  
+- **Descrição**: Formação intermediária em cibersegurança com aprofundamento em princípios de segurança da informação, engenharia social, identificação e mitigação de ameaças, controle de acesso, gerenciamento de identidades e contas, proteção de aplicações Web, desenvolvimento seguro, backup e redundância, criptografia, infraestrutura de chaves públicas (PKI), segurança em sistemas operacionais, equipamentos de segurança e resposta a incidentes. O curso desenvolveu competências voltadas à proteção de ambientes computacionais e à aplicação de boas práticas de segurança em diferentes cenários.
+
 ### 👩🏻‍💻 Programação
 
 [**PCAP: Programming Essentials in Python**](https://github.com/michelleGomes85/Achievements/blob/main/Language-Python.pdf)  
@@ -84,12 +90,19 @@
 
 ### 📚 Projetos de Extensão e Atividades Acadêmicas
 
-[**Projeto de Extensão – “Transformando a Aprendizagem: Capacitação em Inteligência Artificial para Professores”**]()  
+[**Projeto de Extensão – Transformando a Aprendizagem: Capacitação em Inteligência Artificial para Professores**]()
+- **Instituição**: Instituto Federal do Sudeste de Minas Gerais – Campus Barbacena    
+- **Carga Horária**: 560 horas  
+- **Função**: Bolsista PROEX  
+- **Descrição**: Participação como bolsista em projeto de extensão voltado à capacitação de professores para utilização da Inteligência Artificial no contexto educacional. As atividades envolveram planejamento, produção de materiais didáticos, apoio às capacitações e desenvolvimento de práticas voltadas à integração de ferramentas de IA ao processo de ensino-aprendizagem.
+
+[**Projeto de Extensão – Práticas Pedagógicas com Inteligência Artificial**]()
 - **Instituição**: Instituto Federal do Sudeste de Minas Gerais – Campus Barbacena  
-- **Período**: 01/05/2024 – 28/02/2025  
-- **Descrição**: Participação como ministrante em projeto de extensão voltado à capacitação de professores no uso de Inteligência Artificial aplicada à educação. As aulas abordaram conceitos fundamentais de IA, ferramentas práticas e estratégias para utilização em sala de aula, com foco em inovação pedagógica e transformação digital.
+- **Carga Horária**: 220 horas  
+- **Função**: Bolsista PROEX  
+- **Descrição**: Participação como bolsista em projeto de extensão dedicado ao desenvolvimento e aplicação de práticas pedagógicas apoiadas por Inteligência Artificial. O projeto contemplou pesquisa, produção de conteúdos, suporte às atividades de extensão e promoção do uso responsável da IA na educação.
 
 [**Sábado Letivo – Minicurso “Transformando a Aprendizagem: Capacitação em Inteligência Artificial no Contexto Educacional”**](https://github.com/michelleGomes85/Achievements/blob/main/sabado_letivo.pdf)  
 - **Instituição**: Instituto Federal do Sudeste de Minas Gerais – Campus Barbacena  
 - **Data**: 05/07/2025  
-- **Descrição**: Condução de um minicurso de Inteligência Artificial durante sábado letivo, destinado a alunos. O evento apresentou conceitos básicos de IA, exemplos de aplicação no cotidiano e atividades interativas, promovendo o interesse dos estudantes pela tecnologia e pelo pensamento computacional.
+- **Descrição**: Condução de um minicurso sobre Inteligência Artificial destinado aos estudantes, abordando conceitos fundamentais, aplicações práticas, ferramentas de IA e seus impactos no contexto educacional e profissional.
